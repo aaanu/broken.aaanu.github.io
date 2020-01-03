@@ -91,7 +91,7 @@ body {
   width: 100%;
   min-height: 100%;
   font-weight: 400;
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: 'Arial', sans-serif;
   color: #111111;
   line-height: 1.6;
   text-rendering: optimizeLegibility !important;
@@ -163,6 +163,7 @@ div.header .content {
   -moz-align-items: center;
   -ms-align-items: center;
   align-items: center;
+  padding-left: 40px;
 }
 div.header .container .logo {
   
@@ -173,7 +174,7 @@ div.header .container .logo {
 div.header .name {
   padding-top: 20px;
   font-size: 28px;
-  font-family: 'Nexa Bold', 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   
   text-transform: uppercase;
@@ -210,7 +211,7 @@ div.header nav ul a {
   font-weight: 400;
   font-size: 14px;
   text-transform: uppercase;
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: 'Arial', sans-serif;
   -webkit-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
   -moz-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
   -ms-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
@@ -291,18 +292,21 @@ div.main .content .title-container {
 div.main .content .posts {
   
   
+  margin-bottom: 4em;
+  
 }
 div.main .content .page-heading {
   font-size: 20px;
-  font-weight: 700;
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
-  letter-spacing: -0.005rem;
-  text-transform: uppercase;
+  font-family: 'Arial', sans-serif;
+  letter-spacing: -0.0005rem;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
   color: #333333;
-  margin-bottom: 16px;
+  margin-bottom: 10px;
+}
+div.main .content .homepage-heading {
+  font-size: 16px;
 }
 div.main .content .front-matter .page-heading {
   margin-bottom: 0;
@@ -382,7 +386,7 @@ div.main .container.f04 .content {
 div.main .container.f04 .content .num {
   margin: 30px 0px 30px 0;
   font-weight: 400;
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: 'Arial', sans-serif;
   font-size: 50px;
 }
 div.main .container.f04 .content .detail {
@@ -460,11 +464,15 @@ div.main .content {
     width: 100%;
 }
 div.main .content .markdown {
-  font-size: 1.1em;
+  font-size: 14px;
   line-height: 1.75em;
   color: #313537;
-  font-family: serif;
-  font-weight: 300;
+  font-family: inherit;
+}
+.bio {
+  font-style: italic;
+  font-size: 16px;
+  padding-bottom: 30px;
 }
 div.main .content .markdown h1,
 div.main .content .markdown h2,
@@ -473,7 +481,7 @@ div.main .content .markdown h4,
 div.main .content .markdown h5,
 div.main .content .markdown h6 {
   font-size: 22px;
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
   -moz-osx-font-smoothing: grayscale;
@@ -489,7 +497,7 @@ div.main .content .markdown h1 {
 }
 div.main .content .markdown h2 {
   font-size: 1.5rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 4px;
 }
 div.main .content .markdown h3 {
   font-size: 1em;
@@ -722,32 +730,6 @@ kbd {
   white-space: nowrap;
 }
 
-/* Fonts */
-
-
-.wf-raleway-n4-active body, 
-.wf-raleway-n4-active div.header nav ul a,
-.wf-raleway-n7-active div.main .content .page-heading,
-.wf-raleway-n2-active div.main .container.f04 .content .num,
-.wf-raleway-n7-active div.main .content .markdown h1,
-.wf-raleway-n7-active div.main .content .markdown h2,
-.wf-raleway-n7-active div.main .content .markdown h3,
-.wf-raleway-n7-active div.main .content .markdown h4,
-.wf-raleway-n7-active div.main .content .markdown h5,
-.wf-raleway-n7-active div.main .content .markdown h6 {
-      font-family: 'Raleway';
-}
-
-.wf-merriweather-n3-active div.main .content .markdown {
-      font-family: 'Merriweather';
-}
-
-.wf-ubuntu-mono-n4-active div.main .content .markdown code,
-.wf-ubuntu-mono-n4-active div.main .content .markdown pre {
-      font-family: 'Ubuntu Mono';
-}
-
-
 </style>
 <style media="(min-width: 600px)">
   body {
@@ -869,7 +851,7 @@ padding: 0 30px;
 }
 div.header {
 padding-top: 60px;
-padding-bottom: 60px;
+padding-bottom: 40px;
 }
 div.footer {
 padding-top: 60px;
