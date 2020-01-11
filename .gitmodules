@@ -2,6 +2,3 @@
 	path = public
 	url = git@github.com:aaanu/aaanu.github.io.git
 	branch = master
-[submodule "themes/cocoa-eh"]
-	path = themes/cocoa-eh
-	url = https://github.com/mtn/cocoa-eh-hugo-theme.git
