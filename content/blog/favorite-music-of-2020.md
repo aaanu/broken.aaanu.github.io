@@ -5,7 +5,9 @@ date: 2020-10-11T10:59:00-04:00
 best: true
 ---
 
-I'm aware there are two months left in 2020. Figured I'd document what music I've loved the most this year. I thought it was a pretty good music year, overwhelming with releases at times. I spent a lot of time not keeping up with 2020 music and being invested in [2000-2006 rap](https://lightsleeper.substack.com/p/best-rap-2005) instead, or [Big L](https://skatenewswire.com/wp-content/uploads/2019/02/Big-L-Mural-Post.jpg) essentials, or [Chilean trap](https://daily.bandcamp.com/scene-report/chilean-hip-hop-list). I also got really into [Milwaukee rap](https://radiomilwaukee.org/discover-music/milwaukee-music/milwaukee-rap-roundup-chosen-one-big-wan-kmoni-j-o-eons-3xsimpson-and-more/) while the rest of the country was catching up on Detroit rap [thru TikTok](https://stayhipp.com/media/tiktok/whole-lotta-choppas-tiktok-dance-challenge/).
+< Updated on 11/27/2020 >
+
+I'm aware there are two months left in 2020. Figured I'd document what music I've loved the most this year. I thought it was a pretty good music year, overwhelming with releases at times. I spent a lot of time not keeping up with 2020 music and being invested in [2000s rap](https://noz.agency/2020/11/27/best-rap-2008/) instead, or [Big L](https://skatenewswire.com/wp-content/uploads/2019/02/Big-L-Mural-Post.jpg) essentials, or [Chilean trap](https://daily.bandcamp.com/scene-report/chilean-hip-hop-list). I also got really into [Milwaukee rap](https://radiomilwaukee.org/discover-music/milwaukee-music/milwaukee-rap-roundup-chosen-one-big-wan-kmoni-j-o-eons-3xsimpson-and-more/) while the rest of the country was catching up on Detroit rap [thru TikTok](https://stayhipp.com/media/tiktok/whole-lotta-choppas-tiktok-dance-challenge/).
 
 I'll have the albums list at the end ordered, but the following tracks will be unordered. These are my favorite songs of 2020, as well as my favorite moments in songs.
 
@@ -18,6 +20,10 @@ I'll have the albums list at the end ordered, but the following tracks will be u
 ["Street Affection"](https://www.youtube.com/watch?v=97XGRhBTtzk) by Lil Durk
 
 ["Action"](https://www.youtube.com/watch?v=G3PwVq8m4VA) by WiFiGawd
+
+["@ Meh"](https://www.youtube.com/watch?v=nMDOSLEVdBw) by Playboi Carti
+
+["Backflip or Sumn"](https://www.youtube.com/watch?v=69R-x_HaNoI) by Drakeo the Ruler
 
 Freddie Gibbs's verse on "$500 Ounces" from Westside Gunn's Pray for Paris
 
@@ -32,16 +38,32 @@ Freddie Gibbs's verse on "$500 Ounces" from Westside Gunn's Pray for Paris
 
 ["Blue World"](https://www.youtube.com/watch?v=_GC2wFTCAGY) by Mac Miller
 
+["Gross"](https://www.youtube.com/watch?v=HxTKdmcbOK0) by Princess Nokia
+
 ["Emotionally Scarred"](https://www.youtube.com/watch?v=58I5UeOOhkE) and ["Gang Signs"](https://www.youtube.com/watch?v=F2ajZnM1ST8) by Lil Baby
 
 ["Ourself"](https://www.youtube.com/watch?v=2BeJ5YqOuog) by NSG
 
 ["SOLDIERS"](https://www.youtube.com/watch?v=fxfHT9rM0fM) ft. Sampha by Headie One
 
-The sample of Rihanna's "Higher" on Jay Electronica's "Flux Capacitor"
+["City Poppin"](https://www.youtube.com/watch?v=ExtbIaM9Tlk) by BlueBucksClan ft. King Combs
 
-{{<youtube gP25S17ck-8>}}
+["The Moment"](https://soundcloud.com/rosiji/the-moment-ft-king-combs-kai-cash) ft. King Combs, Kai Ca$h by FLEE
+
+["Official"](https://www.youtube.com/watch?v=6nkdbj4kVl4) by A.G. Cook (one of my favorite songwriting examples of the past two years)
+
+["SAD GIRLZ LUV MONEY"](https://www.youtube.com/watch?v=xfD8Xj92oqE) by Amaarae
+
+["Waving, Smiling"](https://www.youtube.com/watch?v=FHBFwqo7MmM) by Angel Olsen
+
+["Flow"](https://www.youtube.com/watch?v=FXOURqLHU-c) by Kelly Lee Owens
+
+"Essence" ft. Tems by WizKid
+
+{{<youtube m77FDcKg96Q>}}
 <p/>
+
+"Run and Hide" by Jay Electronica
 
 ["Clouded"](https://www.youtube.com/watch?v=FFu_lJ3EvAA) and ["Skyline"](https://www.youtube.com/watch?v=4BJ34dCXxec) by Brent Faiyaz
 
@@ -49,7 +71,7 @@ The sample of Rihanna's "Higher" on Jay Electronica's "Flux Capacitor"
 
 ["Play Play"](https://www.youtube.com/watch?v=hGL1JoC2IaQ) ft. Burna Boy by J Hus
 
-["My Name is Dark"](https://www.youtube.com/watch?v=CZe7cbC2Jp8) by Grimes
+["You'll Miss Me When I'm Not Around"](https://www.youtube.com/watch?v=_IHaCyX6-Xo) by Grimes
 
 ["City On My Back"](https://www.youtube.com/watch?v=ug8ubXMUK24) and ["Window Shopper"](https://www.youtube.com/watch?v=QqpaTOlG6yw) by Rio Da Yung OG
 
@@ -64,6 +86,14 @@ The sample of Rihanna's "Higher" on Jay Electronica's "Flux Capacitor"
 ["Forever Ballin"](https://www.youtube.com/watch?v=uImsoA4-V_8) by Yhung T.O. and DaBoii
 
 ["That One Bag"](https://www.youtube.com/watch?v=B3jN_lzJn-g) ft. BabyTron by Cash Kidd
+
+["BRAND NEW"](https://www.youtube.com/watch?v=qKeHbVRmf4I) by Bino Rideaux
+
+["Fantasy"](https://www.youtube.com/watch?v=-gagW4QNcC4) by Against All Logic
+
+["Local Scammer (Remix)"](https://www.youtube.com/watch?v=Hv4aqEsdJIY) ft. Ivorian Doll by G4 Boyz
+
+["A Forecast"](https://www.youtube.com/watch?v=6d_bAgPMsPA) by Touché Amoré
 
 "Don't Need Time" by HotBoii
 
@@ -106,11 +136,11 @@ And now my favorite albums (subject to shift before the end of the year, of cour
 4. _Meet the Woo 2_ by Pop Smoke
 5. _Eternal Atake (Deluxe)_ by Lil Uzi Vert
 6. _WHAT WE DREW_ by Yaeji
-7. _Miss Anthropocene_ by Grimes
+7. _Fuck the World_ by Brent Faiyaz
 8. _How I'm Feeling Now_ by Charli XCX
-9. _Fuck the World_ by Brent Faiyaz
+9. _Notes on a Conditional Form_ by The 1975
 10. _Heat Check, Vol. 2_ by WiFiGawd x Tony Seltzer
 
 If the [ShittyBoyz compilation](https://www.instagram.com/p/CF5RrorB-Yt/) of their best YouTube songs counts, that album would be in my top 5 easily.
 
-Honorable mentions that I still really love: _My Turn_ by Lil Baby, _1800_ by Ty Fontaine, _Industry Games_ by Chika, _A Muse in her Feelings_ by dvsn, _Notes on a Conditional Form_ by The 1975, _Eat When You're Hungry, Sleep When You're Tired_ by Jay Worthy and Harry Fraud, _City On My Back_ by Rio Da Yung OG, _Attack of the Future Shocked, Flesh Covered, Meatbags of the 85_ by $ilkmoney, and _Yellow Tape_ by Key Glock.
+Honorable mentions that I still really love: _My Turn_ by Lil Baby, _1800_ by Ty Fontaine, _Industry Games_ by Chika, _A Muse in her Feelings_ by dvsn, _Eat When You're Hungry, Sleep When You're Tired_ by Jay Worthy and Harry Fraud, _City On My Back_ by Rio Da Yung OG, _Attack of the Future Shocked, Flesh Covered, Meatbags of the 85_ by $ilkmoney, _We're New Again_ by Makaya McCraven / Gil-Scott Heron, and _Yellow Tape_ by Key Glock.
