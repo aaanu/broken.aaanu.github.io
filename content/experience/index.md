@@ -2,18 +2,23 @@
 title = "Experience"
 +++
 
-I'm currently a full stack Software Engineer at Etsy in Brooklyn, NY.
+I'm currently a full stack Software Engineer at Reddit in New York City, NY.
+
+## Reddit
+_May 2021 - now_
+
+I'm an engineer on the Safety Tools team at [Reddit](https://www.reddit.com/). I work on making Reddit a safer and fairer place to be, by empowering Reddit's safety agents to process the thousands of reports made by users about content on the site.
 
 ## Etsy
-_May 2018 - now_
+_May 2018 - April 2021_
 
-I'm a Product Engineer on the Shipping team at [Etsy](https://www.etsy.com/). My day-to-day consists of talking to Project Managers and Designers and building projects for mostly the buyer-side of Etsy in PHP and Javascript.
+I'm a Product Engineer on the Shipping team at [Etsy](https://www.etsy.com/). My day-to-day consisted of talking to Project Managers and Designers and building projects for mostly the buyer-side of Etsy in PHP and Javascript.
 
-When I first started, I revamped the shipping label purchase experience used by all Etsy sellers in less than 3 months, working heavily with Product and Design throughout the process and crafting with the in-house React & Redux architecture. I assured constant uptime of the product using Grafana logging, Behat testing, and Nagios alerting.
+When I first started at Etsy, I revamped the shipping label purchase experience used by all Etsy sellers in less than 3 months, working heavily with Product and Design throughout the process and crafting with the in-house React & Redux architecture. I assured constant uptime of the product using Grafana logging, Behat testing, and Nagios alerting.
 
-Since then, I've mostly worked on experiments to increase purchase conversion rate on Etsy. This includes a sitewide "simulation" where we tested how buyers would interact with free shipping on all orders over $35, showing buyers recommendations for their cart to reach a certain free shipping threshold, and updating the first page of Search results to only show listings with free shipping deals.
+After my first year, I worked on experiments to increase purchase conversion rate on Etsy. This included a sitewide "simulation" where we tested how buyers would interact with free shipping on all orders over $35, showing buyers recommendations for their cart to reach a certain free shipping threshold, and updating the first page of Search results to only show listings with free shipping deals.
 
-I also facilitate [post mortems at Etsy](https://codeascraft.com/2012/05/22/blameless-postmortems/). I assist in promoting a blameless culture at Etsy by leading post-event sessions dedicated to decoupling extremely complex systems and walking through hindsight bias with engineers that come to work to do a great job every day. Ask me more about this, I love to talk about post mortems.
+I also facilitated [post mortems at Etsy](https://codeascraft.com/2012/05/22/blameless-postmortems/). I assisted in promoting a blameless culture at Etsy by leading post-event sessions dedicated to decoupling extremely complex systems and walking through hindsight bias with engineers that come to work to do a great job every day. Ask me more about this, I love to talk about post mortems.
 
 ## AlphaSights
 _January 2017 - September 2017_
